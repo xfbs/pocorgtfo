@@ -19,3 +19,4 @@
 * [Issue 0x16](pocorgtfo16.pdf): PASTOR LAPHOAIG RACES THE RUNTIME RELINKER AND OTHER TRUE TALES OF CLEVERNESS AND CRAFT
 * [Issue 0x17](pocorgtfo17.pdf): It is damned cold outside so let's light ourselves a fire! warm ourselves with whiskey! and teach ourselves some tricks!
 * [Issue 0x18](pocorgtfo18.pdf): Pastor Manul Laphroaig's Montessori Soldering School and Stack Smashing Academy for Youngsters Gifted and Not
+* [Issue 0x19](pocorgtfo19.pdf): This janky old piano has a few more tunes! And so do you! And so do I!
