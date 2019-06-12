@@ -7,3 +7,4 @@
 * [Issue 0x04](pocorgtfo04.pdf): Tract de la Société Secrète de PoC||GTFO sur l'évangile des machines étranges et autres sujets techniques par le prédicateur Pasteur Manul Laphroaig.
 * [Issue 0x05](pocorgtfo05.pdf): addressed to the INHABITANTS of EARTH on the following and other INTERESTING SUBJECTS written for the edification of ALL GOOD NEIGHBORS
 * [Issue 0x06](pocorgtfo06.pdf): PoC||GTFO brings that OLD TIMEY EXPLOITATION with a WEIRD MACHINE JAMBOREE and our world-famous FUNKY FILE FLEA MARKET not to be ironic, but because WE LOVE THE MUSIC!
+* [Issue 0x07](pocorgtfo07.pdf): PoC||GTFO, CALISTHENICS & ORTHODONTIA in remembrance OF OUR BELOVED DR. DOBB because THE WORLD IS ALMOST THROUGH!
